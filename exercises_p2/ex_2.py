@@ -1,3 +1,5 @@
+# 2. Crie funções para um banco. a classe conta possui atributos privados para o saldo do usuário. crie as funções de depósito e saque.
+
 class Account:
     def __init__(self, initial_balance):
         self.__balance = float(initial_balance)
