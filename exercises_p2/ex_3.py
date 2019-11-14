@@ -7,6 +7,8 @@ def exercise_3():
 
 # o código acima vincula a URL host/ex3 a o método "exercise_3"
 
+
+# not part of the answer
 # from flask import Flask
 # app = Flask(__name__)
 
